@@ -1,4 +1,4 @@
-# 📊 Portafolio-Data-Analitics-Dashboards  
+# 📊 Portafolio-Data-Analitycs-Dashboards  
 ¡Bienvenido a mi portafolio! Aquí encontrarás proyectos de análisis de datos y dashboards enfocados en salud y bienestar.  
 
 ## 🏆 Sobre mí  
